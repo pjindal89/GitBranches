@@ -7,4 +7,6 @@ line 6 - master
 line 7 - on new branch
 line 8 - on main
 line 8 - on new_branch
+line 8 - on new_branch
+line 9 - new branch again
 
